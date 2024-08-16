@@ -1,1 +1,1 @@
-# Plant_Disease_Prediction12
+# Plant_Disease_Prediction
