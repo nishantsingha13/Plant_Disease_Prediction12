@@ -29,5 +29,5 @@ Helping to identify plant diseases efficiently for healthier crops and improved 
   - Powered by state-of-the-art **CNN models** with a **96.88%** accuracy rate.
 
 ## Interface:
-  - User-Friendly, Simple, intuitive interface for a seamless user experience through streamlit
+  - User-Friendly, Simple, intuitive interface for a seamless user experience through **streamlit**
     
