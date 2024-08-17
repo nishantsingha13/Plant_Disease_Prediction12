@@ -6,6 +6,9 @@
 ## Mission:
 Helping to identify plant diseases efficiently for healthier crops and improved harvests.
 
+![image](https://github.com/user-attachments/assets/5a5c7343-ecb7-49db-bb63-255477018c06)
+
+
 ## About the Dataset:
   - **Size:** Approximately 87,900 RGB images.
   - **Content:** 87K images of healthy and diseased crop leaves categorized into 38 classes.
