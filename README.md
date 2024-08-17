@@ -9,7 +9,7 @@ Helping to identify plant diseases efficiently for healthier crops and improved 
 ## About the Dataset:
   - **Size:** Approximately 87,900 RGB images.
   - **Content:** 87K images of healthy and diseased crop leaves categorized into 38 classes.
-  -** Dataset Split:**
+  - **Dataset Split:**
       - Training set: 70,295 images.
       - Validation set: 17,572 images.
       - Test set: 33 images for prediction.
