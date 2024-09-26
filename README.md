@@ -27,6 +27,7 @@ Helping to identify plant diseases efficiently for healthier crops and improved 
 
 ## Accuracy: 
   - Powered by state-of-the-art **CNN models** with a **96.88%** accuracy rate.
+  - **SVM model** with a **94.00%** accuracy rate.
 
 ## Interface:
   - User-Friendly, Simple, intuitive interface for a seamless user experience through **streamlit**
